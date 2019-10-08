@@ -1,0 +1,29 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "luminita@castelulmaria.ro",
+    "phone"          : "0722382212",
+    "address"        : "Adresa: Banpotoc, Deva, Hunedoara.",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Vila Castelul Maria",
+    "app_subtitle"   : "O locatie excelenta de cazare in Apuseni, Tara Hategului.",
+
+    "seo_title"      : "Vila Castelul Maria - Cazare Apuseni | WebsiteMarket",
+    "seo_desc"       : "O locatie excelenta de cazare in Apuseni, Tara Hategului.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/creare-site/pensiuni/vila-castelul-maria-apuseni/", 
+    "github"         : "https://github.com/creare-site/demo-vila-castelul-maria-apuseni/",
+    "github_group"   : "https://github.com/creare-site/",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/vilacastelulmaria/",
+    "youtube"        : "https://www.youtube.com/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
